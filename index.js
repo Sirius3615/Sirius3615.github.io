@@ -1,13 +1,18 @@
 // Require the framework and instantiate it
 const fastify = require('fastify')({ logger: true })
+const path = require('path')
+      
+var all_events = '../data/tweets.json';
+
+var prefix_api = "/api/v1";
 
 // Declare an API route
 fastify.get('/', async (request, reply) => {
   return { hello: 'world' }
 })
 
-// API route - "Inventory"
-fastify.get('/inventory', async (request, reply) => {
+// API route - "events"
+fastify.get(prefix_api + '/events', async (request, reply) => {
   return {
       hat: 5,
       socks: 5,
