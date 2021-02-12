@@ -33,6 +33,10 @@ fastify.get(prefix_api + '/event/date=1-' + month + '-' + year , async (request,
       "url" : "https://in-the-sky.org/news.php?id=20210301_08_100",
       "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/moon/the_moon_at_aphelion.jpg"
   }
+});
+
+fastify.get(prefix_api + '/event/date=2-' + month + '-' + year , async (request, reply) => {
+  return 
 })
 
 // Run the server!
