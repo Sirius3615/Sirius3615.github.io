@@ -26,6 +26,7 @@
   "homepage": "https://github.com/majikarp/node-rest-api-template#readme",
   "dependencies": {
     "fastify": "^2.2.0",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "jsonfile": "^6.1.0"
   }
 }
