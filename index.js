@@ -1,21 +1,12 @@
 // Require the framework and instantiate it
 const fastify = require('fastify')({ logger: true })
-const path = require('path')
-const jsonfile = require('jsonfile')
-      
-var all_events = '../data/tweets.json';
+
+var request = require('request');      
+var all_events = '../data/events.json';
 
 var prefix_api = "/api/v1";
 var month = process.env.MONTH;
 var year = process.env.YEAR;
-
-
-/**
- helper functions for get data from json files
- **/
-var getAllEvents = function () {
-    return jsonfile.readFileSync(all_events);
-};
 
 
 //no imput
@@ -38,6 +29,12 @@ fastify.get(prefix_api + '/event/date=1-' + month + '-' + year , async (request,
 fastify.get(prefix_api + '/event/date=2-' + month + '-' + year , async (request, reply) => {
   return 
 })
+
+
+
+
+
+
 
 // Run the server!
 const start = async () => {

@@ -27,6 +27,7 @@
   "dependencies": {
     "fastify": "^2.2.0",
     "path": "^0.12.7",
-    "jsonfile": "^6.1.0"
+    "jsonfile": "^6.1.0",
+    "request": "^2.88.2"
   }
 }
