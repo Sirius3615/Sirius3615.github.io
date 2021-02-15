@@ -15,7 +15,9 @@ fastify.get('/', async (request, reply) => {
   return { hello: 'world' }
 })
 
-// API route - "events"
+// API routes - "events"
+
+
 fastify.get(prefix_api + '/event/date=1-3-2021' + month + '-' + year , async (request, reply) => {
   return {
       "date" : "01.03.2021",
@@ -25,6 +27,8 @@ fastify.get(prefix_api + '/event/date=1-3-2021' + month + '-' + year , async (re
       "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/moon/the_moon_at_aphelion.jpg"
   }
 });
+
+//=======================//
 
 fastify.get(prefix_api + '/event/date=2-3-2021' , async (request, reply) => {
   return {
@@ -36,11 +40,31 @@ fastify.get(prefix_api + '/event/date=2-3-2021' , async (request, reply) => {
     }
 })
 
+//=======================// not done bellow fill out the info
 
+fastify.get(prefix_api + '/event/date=3-3-2021' , async (request, reply) => {
+  return {
+      "date" : "03.03.2021",
+      "title" : "C/2020 R4 (ATLAS) at perihelion",
+      "summary" : "Comet C/2020 R4 (ATLAS) will make its closest approach to the Sun, at a distance of 1.03 AU. ",
+      "url" : "https://in-the-sky.org/news.php?id=20210302_19_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/comets/comets.jpg"
+    }
+})
 
+//=======================//
 
+fastify.get(prefix_api + '/event/date=4-3-2021' , async (request, reply) => {
+  return {
+      "date" : "04.03.2021",
+      "title" : "C/2020 R4 (ATLAS) at perihelion",
+      "summary" : "Comet C/2020 R4 (ATLAS) will make its closest approach to the Sun, at a distance of 1.03 AU. ",
+      "url" : "https://in-the-sky.org/news.php?id=20210302_19_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/comets/comets.jpg"
+    }
+})
 
-
+//=======================//
 
 // Run the server!
 const start = async () => {
