@@ -1,0 +1,23 @@
+   [
+     {
+      "date" : "02.03.2021",
+      "title" : "The Moon at perigee",
+      "summary" : "The Moon will reach the closest point along its orbit to the Earth and will appear slightly larger than at other times. ",
+      "url" : "https://in-the-sky.org/news.php?id=20210302_08_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/moon/the_moon_at_perigee.jpg"
+    },
+    {
+      "date" : "02.03.2021",
+      "title" : "C/2020 R4 (ATLAS) at perihelion",
+      "summary" : "Comet C/2020 R4 (ATLAS) will make its closest approach to the Sun, at a distance of 1.03 AU. ",
+      "url" : "https://in-the-sky.org/news.php?id=20210302_19_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/comets/comets.jpg"
+    },
+    {
+      "date" : "02.03.2021",
+      "title" : "Mercury at dichotomy",
+      "summary" : "Mercury will reach half phase in its 2021 morning apparition. It will be shining brightly at mag 0.1.",
+      "url" : "https://in-the-sky.org/news.php?id=20210302_11_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/innerplanets/mercury.jpg"
+    }
+     ]
