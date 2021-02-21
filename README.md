@@ -93,8 +93,8 @@ Visits the [Astronomy Events API website](https://astronomy-events-api.glitch.me
   <p>
     All the past events/info will be deleted after its date/month/year has passed.
   
-  <br><br>
-  Wanna test if ypur aplication works? Use <code class="red-code">https://sirius3615.github.io/test.json</code><br>
+  
+  Wanna test if your aplication works? Use <code class="red-code">https://sirius3615.github.io/test.json</code><br>
   It will return a result that is output of a single event.
     </p>
   
