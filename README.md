@@ -33,4 +33,68 @@ Visits the [Astronomy Events API website](https://astronomy-events-api.glitch.me
     Response:
   </h5>
     <img class="code-image" src="https://i.imgur.com/fFGtu2P.jpg" title="response" />
+    
+      <h1 class="display-5 title">By Specific Month</h1>
+  <p>
+    The output of this API request will give you most important events/info for a specific month you enter. <br> 
+    The request URL you are gonna use is: <code class="red-code">https://sirius3615.github.io/data/by-month/3.json</code>
+    <br>
+    The last part for the month can be changes like in the request preview bellow.
+  </p>
+  <br>
+  <h5>
+    Request:
+  </h5>
+  <img class="code-image" src="https://i.imgur.com/QoPpCRM.jpg" title="request" />
+  <br/><br>
+  <h5>
+    Response:
+  </h5>
+    <img class="code-image" src="https://i.imgur.com/fqH7AMO.jpg" title="response" />
+  
+    <h1 class="display-5 title">By Specific Year</h1>
+  <p>
+    The output of this API request will give you most important events/info for a specific year you enter. <br> 
+    The request URL you are gonna use is: <code class="red-code">https://sirius3615.github.io/data/by-year/2021.json</code>
+    <br>
+    The last part for the year can be changes like in the request preview bellow.
+  </p>
+  <br>
+  <h5>
+    Request:
+  </h5>
+  <img class="code-image" src="https://i.imgur.com/SsiZvLH.jpg" title="request" />
+  <br/><br>
+  <h5>
+    Response:
+  </h5>
+    <img class="code-image" src="https://i.imgur.com/fqH7AMO.jpg" title="response" />
+  <br><br>
+  <h1 class="display-5 title">All Events for current month</h1>
+  <p>
+    The output of this API request will give you all events/info for current month. <br> 
+    The request URL you are gonna use is: <code class="red-code">https://sirius3615.github.io/data/all-events/events.json</code>
+  </p>
+  <br>
+  <h5>
+    Request:
+  </h5>
+  <img class="code-image" src="https://i.imgur.com/mq1pNXp.jpg" title="request" />
+  <br/><br>
+  <h5>
+    Response:
+  </h5>
+    <img class="code-image" src="https://i.imgur.com/nSivUmX.jpg" title="response" />
+  <br><br>
+  <h1 class="display-5 title">Note:</h1>
+  <p>
+    Please be kind enough and try to cache the results, so you dont request the API dozen times a minute for same results. But you probably know that better then me and what is or is not suitable for your aplication.
+  </p>
+  <p>
+    All the past events/info will be deleted after its date/month/year has passed.
+  
+  <br><br>
+  Wanna test if ypur aplication works? Use <code class="red-code">https://sirius3615.github.io/test.json</code><br>
+  It will return a result that is output of a single event.
+    </p>
   
