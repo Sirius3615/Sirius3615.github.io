@@ -1,5 +1,5 @@
-# [The Astronomy API](https://astronomy-events-api.glitch.me)
+# The Astronomy API
 
-![](https://i.imgur.com/gVIjrfP.png)
+![image](https://i.imgur.com/gVIjrfP.png)
 
-# Visits the [Astronomy Events API website](https://astronomy-events-api.glitch.me) for more info!
+Visits the [Astronomy Events API website](https://astronomy-events-api.glitch.me) for more info!
