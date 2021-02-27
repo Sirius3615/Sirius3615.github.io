@@ -26,5 +26,145 @@
       "summary" : "Mercury will reach half phase in its 2021 morning apparition. It will be shining brightly at mag 0.1.",
       "url" : "https://in-the-sky.org/news.php?id=20210302_11_100",
       "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/innerplanets/mercury.jpg"
+    },
+    {
+      "date" : "05.03.2021",
+      "title" : "Asteroid 4 Vesta at opposition",
+      "summary" : "Asteroid 4 Vesta will be well placed, lying in the constellation Leo, well above the horizon for much of the night.",
+      "url" : "https://in-the-sky.org/news.php?id=20210305_14_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/asteroids/asteroids.jpg"
+    },
+   {
+      "date" : "06.03.2021",
+      "title" : "Mercury at greatest elongation west",
+      "summary" : "Mercury will reach its greatest separation from the Sun in its February–March 2021 morning apparition. It will be shining brightly at mag 0.1.",
+      "url" : "https://in-the-sky.org/news.php?id=20210306_11_101",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/innerplanets/mercury.jpg"
+    },
+   {
+      "date" : "08.03.2021",
+      "title" : "NGC 3532 is well placed",
+      "summary" : "Across much of the world the wishing well open star cluster (NGC 3532; mag 3.0) in Carina will be well placed, high in the sky. It will reach its highest point in the sky at around midnight local time.",
+      "url" : "https://in-the-sky.org/news.php?id=20210308_17_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/deepsky/ngc_3532_is_well_placed.jpg"
+    },
+   {
+      "date" : "09.03.2021",
+      "title" : "Conjunction of the Moon and Saturn",
+      "summary" : "The Moon and Saturn will share the same right ascension, with the Moon passing 3°40' to the south of Saturn. The Moon will be 26 days old.",
+      "url" : "https://in-the-sky.org/news.php?id=20210309_20_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/conjunctions/conjunctions.jpg"
+    },
+   {
+      "date" : "10.03.2021",
+      "title" : "Conjunction of the Moon and Jupiter",
+      "summary" : "The Moon and Jupiter will share the same right ascension, with the Moon passing 4°02' to the south of Jupiter. The Moon will be 27 days old.",
+      "url" : "https://in-the-sky.org/news.php?id=20210310_20_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/conjunctions/conjunctions.jpg"
+    },
+   {
+      "date" : "11.03.2021",
+      "title" : "Neptune at solar conjunction",
+      "summary" : "Neptune will pass very close to the Sun in the sky as its orbit carries it around the far side of the solar system from the Earth.",
+      "url" : "https://in-the-sky.org/news.php?id=20210311_12_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/outerplanets/neptune.jpg"
+    },
+   {
+      "date" : "12.03.2021",
+      "title" : "C/2020 R4 (ATLAS) reaches its brightest",
+      "summary" : "Comet C/2020 R4 (ATLAS) is forecast to reach its brightest. It will lie at a distance of 1.05 AU from the Sun, and at a distance of 1.47 AU from the Earth.",
+      "url" : "https://in-the-sky.org/news.php?id=20210312_19_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/comets/comets.jpg"
+    },
+   {
+      "date" : "13.03.2021",
+      "title" : "New Moon",
+      "summary" : "The Moon will pass close to the Sun and become lost in the Sun's glare for a few days.",
+      "url" : "https://in-the-sky.org/news.php?id=20210313_08_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/moon/new_moon.jpg"
+    },
+   {
+      "date" : "14.03.2021",
+      "title" : "γ-Normid meteor shower 2021",
+      "summary" : "The γ-Normid meteor shower will be active from 25 February to 28 March, producing its peak rate of meteors around 14 March.",
+      "url" : "https://in-the-sky.org/news.php?id=20210314_10_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/meteors/meteors.jpg"
+    },
+   {
+      "date" : "18.03.2021",
+      "title" : "The Moon at apogee",
+      "summary" : "The Moon will reach the furthest point along its orbit to the Earth and will appear slightly smaller than at other times.",
+      "url" : "https://in-the-sky.org/news.php?id=20210318_08_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/moon/the_moon_at_apogee.jpg"
+    },
+   {
+      "date" : "19.03.2021",
+      "title" : "Conjunction of the Moon and Mars",
+      "summary" : "The Moon and Mars will share the same right ascension, with the Moon passing 1°55' to the south of Mars. The Moon will be 6 days old.",
+      "url" : "https://in-the-sky.org/news.php?id=20210319_20_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/conjunctions/conjunctions.jpg"
+    },
+   {
+      "date" : "20.03.2021",
+      "title" : "March equinox",
+      "summary" : "The March equinox marks the first day of spring for anybody living in the northern hemisphere, and the first day of autumn for anybody living in the southern hemisphere.",
+      "url" : "https://in-the-sky.org/news.php?id=20210320_07_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/earth/earth.jpg"
+    },
+   {
+      "date" : "21.03.2021",
+      "title" : "Moon at First Quarter",
+      "summary" : "The Moon will be prominent in the evening sky, setting around midnight",
+      "url" : "https://in-the-sky.org/news.php?id=20210321_08_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/moon/moon_at_first_quarter.jpg"
+    },
+   {
+      "date" : "24.03.2021",
+      "title" : "10P/Tempel at perihelion",
+      "summary" : "Comet 10P/Tempel will make its closest approach to the Sun, at a distance of 1.42 AU.",
+      "url" : "https://in-the-sky.org/news.php?id=20210324_19_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/comets/comets.jpg"
+    },
+   {
+      "date" : "26.03.2021",
+      "title" : "Venus at superior solar conjunction",
+      "summary" : "Venus will pass very close to the Sun in the sky as its orbit carries it around the far side of the solar system from the Earth.",
+      "url" : "https://in-the-sky.org/news.php?id=20210326_11_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/innerplanets/venus.jpg"
+    },
+   {
+      "date" : "27.03.2021",
+      "title" : "136472 Makemake at opposition",
+      "summary" : "136472 Makemake will be well placed in the sky, in the constellation Coma Berenices. It will be visible for much of the night, reaching its highest point in the sky around midnight local time",
+      "url" : "https://in-the-sky.org/news.php?id=20210327_13_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/dwarfplanets/136472.jpg"
+    },
+   {
+      "date" : "28.03.2021",
+      "title" : "Full Moon",
+      "summary" : "The Moon will reach full phase. At this time in its monthly cycle of phases, the Moon lies almost directly opposite the Sun in the sky, placing it high above the horizon for much of the night.",
+      "url" : "https://in-the-sky.org/news.php?id=20210328_08_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/moon/full_moon.jpg"
+    },
+   {
+      "date" : "29.03.2021",
+      "title" : "Venus at greatest brightness",
+      "summary" : "Venus will reach its greatest brightness in its 2021 evening apparition. It will be shining brightly at mag -3.9.",
+      "url" : "https://in-the-sky.org/news.php?id=20210329_11_100 g",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/innerplanets/venus.jpg"
+    },
+   {
+      "date" : "30.03.2021",
+      "title" : "The Moon at perigee",
+      "summary" : "The Moon will reach the closest point along its orbit to the Earth and will appear slightly larger than at other times.",
+      "url" : "https://in-the-sky.org/news.php?id=20210330_08_100",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/moon/the_moon_at_perigee.jpg"
+    },
+   {
+      "date" : "31.03.2021",
+      "title" : "The Moon at aphelion",
+      "summary" : "The Moon's monthly orbit around the Earth will carry it to its furthest point from the Sun – its aphelion – at a distance of 1.0010 AU from the Sun.",
+      "url" : "https://in-the-sky.org/news.php?id=20210330_08_101",
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/moon/the_moon_at_aphelion.jpg"
     }
-    ]
+   ]
