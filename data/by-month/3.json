@@ -17,7 +17,14 @@
     "date" : "20.3.2021",
     "title" : "March Equinox",
     "summary" : "The March equinox occurs at 09:27 UTC. The Sun will shine directly on the equator and there will be nearly equal amounts of day and night throughout the world. This is also the first day of spring (vernal equinox) in the Northern Hemisphere and the first day of fall (autumnal equinox) in the Southern Hemisphere.",
-    "url" : "https://lunaf.com/lunar-calendar/2021/03/13/",
-    "imageUrl" : "https://lunaf.com/img/moon/m-phase-0.png"
+    "url" : "https://www.timeanddate.com/calendar/march-equinox.html",
+    "imageUrl" : "https://c.tadst.com/gfx/1200x675/equinoxes-and-solstice.png?1"
+  },
+  {
+    "date" : "28.3.2021",
+    "title" : "Full Moon",
+    "summary" : "The Moon will be located on the opposite side of the Earth as the Sun and its face will be will be fully illuminated. This phase occurs at 18:49 UTC. This full moon was known by early Native American tribes as the Worm Moon because this was the time of year when the ground would begin to soften and the earthworms would reappear. This moon has also been known as the Crow Moon, the Crust Moon, the Sap Moon, and the Lenten Moon.",
+    "url" : "https://lunaf.com/lunar-calendar/2021/03/28/",
+    "imageUrl" : "https://lunaf.com/img/moon/m-phase-16.png"
   }
 ]
