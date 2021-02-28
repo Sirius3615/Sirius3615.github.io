@@ -3,5 +3,6 @@
       "title" : "NGC 3532 is well placed",
       "summary" : "Across much of the world the wishing well open star cluster (NGC 3532; mag 3.0) in Carina will be well placed, high in the sky. It will reach its highest point in the sky at around midnight local time.",
       "url" : "https://in-the-sky.org/news.php?id=20210308_17_100",
-      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/deepsky/ngc_3532_is_well_placed.jpg"
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/deepsky/ngc_3532_is_well_placed.jpg",
+       "important" : false
     }

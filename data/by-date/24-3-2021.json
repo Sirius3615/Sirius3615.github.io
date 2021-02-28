@@ -3,5 +3,6 @@
       "title" : "10P/Tempel at perihelion",
       "summary" : "Comet 10P/Tempel will make its closest approach to the Sun, at a distance of 1.42 AU.",
       "url" : "https://in-the-sky.org/news.php?id=20210324_19_100",
-      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/comets/comets.jpg"
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/comets/comets.jpg",
+       "important" : false
     }

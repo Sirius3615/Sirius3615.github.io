@@ -3,5 +3,6 @@
       "title" : "Neptune at solar conjunction",
       "summary" : "Neptune will pass very close to the Sun in the sky as its orbit carries it around the far side of the solar system from the Earth.",
       "url" : "https://in-the-sky.org/news.php?id=20210311_12_100",
-      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/outerplanets/neptune.jpg"
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/outerplanets/neptune.jpg",
+       "important" : false
     }

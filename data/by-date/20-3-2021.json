@@ -3,5 +3,6 @@
       "title" : "March equinox",
       "summary" : "The March equinox marks the first day of spring for anybody living in the northern hemisphere, and the first day of autumn for anybody living in the southern hemisphere.",
       "url" : "https://in-the-sky.org/news.php?id=20210320_07_100",
-      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/earth/earth.jpg"
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/earth/earth.jpg",
+      "important" : true
     }

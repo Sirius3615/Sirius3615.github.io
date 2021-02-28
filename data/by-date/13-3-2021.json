@@ -3,5 +3,6 @@
       "title" : "New Moon",
       "summary" : "The Moon will pass close to the Sun and become lost in the Sun's glare for a few days.",
       "url" : "https://in-the-sky.org/news.php?id=20210313_08_100",
-      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/moon/new_moon.jpg"
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/moon/new_moon.jpg",
+      "important" : true
     }
