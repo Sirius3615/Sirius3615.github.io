@@ -3,5 +3,6 @@
       "title" : "The Moon at apogee",
       "summary" : "The Moon will reach the furthest point along its orbit to the Earth and will appear slightly smaller than at other times.",
       "url" : "https://in-the-sky.org/news.php?id=20210318_08_100",
-      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/moon/the_moon_at_apogee.jpg"
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/moon/the_moon_at_apogee.jpg",
+       "important" : false
     }

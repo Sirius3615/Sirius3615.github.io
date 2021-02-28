@@ -3,5 +3,6 @@
       "title" : "γ-Normid meteor shower 2021",
       "summary" : "The γ-Normid meteor shower will be active from 25 February to 28 March, producing its peak rate of meteors around 14 March.",
       "url" : "https://in-the-sky.org/news.php?id=20210314_10_100",
-      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/meteors/meteors.jpg"
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/meteors/meteors.jpg",
+       "important" : true
     }

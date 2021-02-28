@@ -3,5 +3,6 @@
       "title" : "Full Moon",
       "summary" : "The Moon will reach full phase. At this time in its monthly cycle of phases, the Moon lies almost directly opposite the Sun in the sky, placing it high above the horizon for much of the night.",
       "url" : "https://in-the-sky.org/news.php?id=20210328_08_100",
-      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/moon/full_moon.jpg"
+      "imageUrl" : "https://in-the-sky.org/image.php?style=icon&img=imagedump/moon/full_moon.jpg",
+     "important" : true
     }
